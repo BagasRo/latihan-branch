@@ -1,4 +1,5 @@
 # latihan-branch
 
 # Ini adalah repository untuk latihan membuat branch baru
-github itu asyik lo.
+Belajar GitHub di Dicoding itu seru!
+
